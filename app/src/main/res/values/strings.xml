@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">rmobp27</string>
+    <string name="todo">TODO</string>
+    <string name="todobac">TODO</string>
+    <string name="ivanov3">Ivanov3</string>
+    <string name="password">******</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_a_new_account">Create A New Account?</string>
+    <string name="todofs">TODO</string>
+    <string name="email">ivanon@gmail.com</string>
+    <string name="password21">*******</string>
+    <string name="passwordpovtor">*******</string>
+    <string name="sign_up">sign up</string>
+    <string name="bcxxc">TODO</string>
+</resources>
